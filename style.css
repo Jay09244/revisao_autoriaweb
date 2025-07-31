@@ -1,0 +1,57 @@
+.importante{
+    color: red;
+    font-weight: bolder;
+}
+
+[data-info]{
+    color: blue;
+    text-decoration: underline;
+}
+
+.caixadestaque{
+    background-color: yellow;
+}
+
+.section{
+    background-color: pink;
+    color: white;
+    border-radius: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text{
+    border: 8px;
+    border-radius: 8px;
+    border-color: red;
+}
+
+.palavra{
+    color: red;
+}
+
+li{
+    color: white;
+    background-color: pink;
+}
+
+ul{
+    color: black;
+    background-color: blue;
+}
+
+ol{
+    color: brown;
+    background-color: blue;
+}
+
+.ancora{
+    color: azure;
+}
+
+.texto{
+    color: blue;
+}
+
+.textoespecial{
+    color: red;
+}
